@@ -78,3 +78,27 @@ User profile data
 Theme preference stored in localStorage
 
 Each dashboard section is rendered dynamically by injecting HTML into the main content area based on the active tab. After each render, Lucide icons are initialized to replace icon placeholders.
+
+
+🎨 Customization
+🔌 Connect Real Data
+
+Replace the mock data inside index.js (like platform stats and activity) with responses from your own API or analytics service.
+
+🏷️ Change Branding
+
+Update:
+
+The app name in index.html
+
+Color palette in the Tailwind config block
+
+Sidebar labels and icons
+
+➕ Add New Dashboard Sections
+
+Create a new render function in index.js
+
+Add a new tab in the sidebar configuration
+
+Update the tab switch logic to load your new view
