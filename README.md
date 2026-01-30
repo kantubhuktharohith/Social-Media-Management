@@ -102,3 +102,7 @@ Create a new render function in index.js
 Add a new tab in the sidebar configuration
 
 Update the tab switch logic to load your new view
+
+📜 License
+
+MIT License. Free to use, modify, and build on.
