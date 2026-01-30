@@ -50,3 +50,31 @@ Controls application state, tab switching, rendering views, and UI behavior.
 
 style.css
 Adds custom scrollbars and small animation utilities.
+
+▶️ Getting Started
+
+Clone the repository
+```
+git clone https://github.com/your-username/socialdash.git
+cd socialdash
+```
+
+Open the app
+
+Simply open index.html in your browser.
+
+No server. No build step.
+
+🧠 How It Works
+
+The app uses a simple JavaScript state object to manage:
+
+Active navigation tab
+
+Loading state
+
+User profile data
+
+Theme preference stored in localStorage
+
+Each dashboard section is rendered dynamically by injecting HTML into the main content area based on the active tab. After each render, Lucide icons are initialized to replace icon placeholders.
