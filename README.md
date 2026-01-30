@@ -23,3 +23,30 @@ SocialDash is a modern, responsive social media analytics dashboard built with v
 🔔 Toast notifications and modal interactions
 
 All dashboard data is currently mocked in JavaScript for demonstration purposes.
+
+🧰 Tech Stack
+
+HTML5
+
+Tailwind CSS (via CDN)
+
+Vanilla JavaScript
+
+Lucide Icons
+
+Google Fonts (Inter)
+
+```
+├── index.html     # App layout and structure
+├── style.css      # Custom styles and animations
+└── index.js       # State management, rendering logic, UI interactions
+```
+
+index.html
+Contains the main layout, sidebar, header, and content container.
+
+index.js
+Controls application state, tab switching, rendering views, and UI behavior.
+
+style.css
+Adds custom scrollbars and small animation utilities.
