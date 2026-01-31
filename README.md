@@ -30,6 +30,8 @@ All dashboard data is currently mocked in JavaScript for demonstration purposes.
 
 ![image alt](https://github.com/kantubhuktharohith/Social-Media-Management/blob/211d0b3ce0bdbafdcc43f7734318f2f57b796aa8/Screenshot%202026-01-29%20214519.png)
 
+![image alt](https://github.com/kantubhuktharohith/Social-Media-Management/blob/5fdca552eb925fa093b9116a3ac1f2161f8e79a7/Screenshot%202026-01-29%20214537.png)
+
 🧰 Tech Stack
 
 HTML5
