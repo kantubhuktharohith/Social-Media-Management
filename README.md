@@ -24,6 +24,8 @@ SocialDash is a modern, responsive social media analytics dashboard built with v
 
 All dashboard data is currently mocked in JavaScript for demonstration purposes.
 
+📸 Preview
+
 🧰 Tech Stack
 
 HTML5
