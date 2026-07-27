@@ -1,7 +1,6 @@
 🚀 SocialDash – Social Media Analytics Dashboard
 
 SocialDash is a modern, responsive social media analytics dashboard built with vanilla JavaScript and Tailwind CSS. It provides a clean interface to visualize platform performance, audience insights, and engagement metrics.
-
 ✨ Features
 
 📊 Multi-platform overview (Instagram, Twitter, YouTube, LinkedIn)
